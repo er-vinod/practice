@@ -1,2 +1,0 @@
-# practice
-testing vtiger automation
